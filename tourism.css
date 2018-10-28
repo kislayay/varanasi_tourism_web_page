@@ -1,0 +1,230 @@
+body {
+	margin: 0;
+	padding: 0;
+	 font-family: Arial, Helvetica, sans-serif;
+}
+* {box-sizing: border-box;
+}
+.moto {
+	color: 		#FF8C00;
+	font-weight: bold;
+	font-size: 60px;
+	float: left;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: font-family: 'Monoton', cursive;
+	background-color: black;
+
+}
+
+
+
+.tour nav {
+	display: inline;
+	text-align: center;
+	
+}
+	
+
+	
+
+.tour nav a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 18px;
+	font-size: 20px;
+	line-height: 25px;
+	
+}
+.imgid {
+	width: 100%;
+	height: ;
+}
+
+
+
+
+
+.tour {
+
+	height: 70px;
+	background-color: rgb(106, 122, 107);
+}
+.mySlides {display:none;
+	background-size: cover;
+
+}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+.gun {
+	text-align: center;
+	font-size: 35px;
+
+
+}
+.point {
+	font-weight: bold;
+	padding: auto;
+}
+.hat {
+	text-align: center;
+	color: 	#000000;
+}
+.mike {
+	color: black;
+	text-align: center;
+	font-size: 35px;
+}
+.lion {
+	color: red;
+	
+	text-align: center;
+}
+.devote {
+	color: tomato;
+	text-align: center;
+	font-size: 38px;
+	font-weight: bold;
+}
+.tour a:hover {
+	background-color: white;
+	padding: 200px 5px 50px 10px;
+}
+input[type=text] {
+	height: 50px;
+	text-align: center;
+	border-color: green;
+	font-weight: bold;
+
+}
+input[type=date] {
+	height: 50px;
+	border-color: green;
+	width: 176px;
+
+}
+input[type=submit] {
+	height: 50px;
+	width: 18%;
+	background-color: 		#FF8C00;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 25px;
+}
+.fork {
+	margin-left:  110px;
+	text-align: center;
+}
+.van {
+	padding: 80px 100px 350px 45px;
+}
+.tour input[type=text] {
+  padding: 2px;
+  margin-top: 12px;
+  font-size: 17px;
+  border: none;
+}
+
+.tour .search-container button {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.nav {
+	overflow: hidden;
+	
+	  background-color: #8c0505; 
+}
+.nav li {
+	display: inline;
+	text-decoration: none;
+	padding: 0px;
+}
+.nav li a{
+	text-decoration: none;
+	margin: 74px;
+	background-size: cover;
+		overflow: hidden;
+		color: 	#2c7e87;
+		font-size: 22px;
+		font-weight: bold;
+
+}
+.nav a:hover {
+	background-color: 	#061213;
+	margin-top: 65px;
+}
+.nav h1{
+	font-size: 45px;
+}
+.nav img {
+	height: 88px;
+}
+.divine {
+	background-size: cover;
+}
+.divine h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+
+}
+.divine img{
+height: 480px;
+
+}
+.bhu {
+	font-weight: bold;
+	font-size: 21px;
+	color: black;
+}
+.krishna {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	color: white;
+}
+.krishna img {
+	float: left;
+}
+.krishna p {
+	font-size: 20px;
+	color: white;
+}
+.krishna h2 {
+	float: left;
+	background-color: #912a22;
+}
+
+#kii {
+	float: left;
+}
+.doku {
+	background-color: white;
+}
+.krishna img:hover {
+	background-color: 	#000000;
+	padding: 3px;
+	cursor: pointer;
+	padding: 20px;
+
+}
+.krishna h5{
+	float: left;
+	position: fixed;
+}
+
+
+
+
+
+
+
+
